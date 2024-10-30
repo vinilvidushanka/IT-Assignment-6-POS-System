@@ -1,0 +1,62 @@
+*{
+    font-family: "Gabarito", sans-serif;  
+}
+body{
+    margin: 0;
+    background-color:#f9ebea ;
+}
+.card{
+    background-color:#F4F6FF ;
+}
+.navbar{
+    background-color: #B9E5E8;
+}
+.navbar-brand{
+    font-family: "Gabarito", sans-serif;
+    color: #091057;
+    font-weight: 400;
+}
+.nav-item{
+    font-family: "Gabarito", sans-serif;
+    color: #000000;
+}
+.nav-underline .nav-link{
+    color: #091057;
+}
+.form-control{
+    color: #000000;
+    font-family: "Gabarito", sans-serif;
+    
+}
+.btn-sign-in{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline-color: #091057;
+    font-family: "Gabarito", sans-serif;
+    color: #091057;
+}
+.btn-sign-in:hover{
+    background-color:#091057 ;
+    outline-color: #091057;
+    color: white;
+}
+.btn-sign-out{
+    outline-color: #091057;
+    font-family: "Gabarito", sans-serif;
+    color: #091057;
+}
+.btn-sign-out:hover{
+    background-color:#091057 ;
+    outline-color: #091057;
+    color: #f9ebea;
+}
+
+
+.fw-normal{
+    background-color: #B9E5E8;
+    font-family: "Gabarito", sans-serif;
+}
+.modal-header{
+    background-color: #B9E5E8;
+}
